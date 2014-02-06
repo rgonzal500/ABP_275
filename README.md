@@ -51,5 +51,36 @@ useless_trivia.py          -->     1) Needed to change input to raw_input
 word_problems.py           -->     1) Needed to change input to raw_input
 
 
+Chapter 3
+
+craps_roller.py            -->     1) Needed to change input to raw_input
+
+exclusive_network.py       -->     1) Needed to change input to raw_input
+
+finiky_counter.py          -->     1) Needed to change input to raw_input
+
+granted_or_denied.py       -->     1) Needed to change input to raw_input
+
+guess_my_number.py         -->     1) Needed to change input to raw_input
+
+losing_battle-bad.py       -->     1) Needed to change input to raw_input)
+
+losing_battle-good.py      -->     1) Needed to change input to raw_input
+
+maitre_d.py                -->     1) Needed to change input to raw_input
+
+mood_computer.py           -->     1) Needed to change input to raw_input
+
+password.py                -->     1) Needed to change input to raw_input
+
+three_year-old.py          -->     1) Needed to change input to raw_input
+
+
+
+
+
+
+
+
 
 
