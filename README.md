@@ -118,7 +118,24 @@ hero_inv2.py               -->     1) Needed to change input to raw_input
 word_jumble.py             -->     1) Needed to change input to raw_input
 
 
+Chapter 5
 
+hero_inv3.py               -->     1) Needed to change input to raw_input
+
+                                   2) The following did not work:     
+                                      print("Here", end=" ") 
+                            
+                                      -print has as default new line to be pring one can define the 
+                                      end character with the end=" ", in this case space on python
+                                      version 3.0 and above. 
+
+high_score.py              -->     1) Needed to change input to raw_input
+
+high_score2.py             -->     1) Needed to change input to raw_input
+
+geek_translator.py         -->     1) Needed to change input to raw_input
+
+hangman.py                 -->     1) Needed to change input to raw_input
 
 
 
