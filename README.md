@@ -76,11 +76,53 @@ password.py                -->     1) Needed to change input to raw_input
 three_year-old.py          -->     1) Needed to change input to raw_input
 
 
+Chatper 4                
+
+loopy_string.py            -->     1) Needed to change input to raw_input
+
+counter.py                 -->     1) Needed to change input to raw_input
+
+                                   2) The following did not work:     
+                                     print("Here", end=" ") 
+                           
+                                     -print has as default new line to be pring one can define the 
+                                     end character with the end=" ", in this case space on python
+                                     version 3.0 and above.
+
+message_analyzer.py        -->     1) Needed to change input to raw_input
+
+random_access.py           -->     1) Needed to change input to raw_input
+
+no_vowels.py               -->     1) Needed to change input to raw_input
+
+pizza_slicer.py            -->     1) Needed to change input to raw_input
+
+                                   2) The following did not work:     
+                                      print("Here", end=" ") 
+                            
+                                      -print has as default new line to be pring one can define the 
+                                      end character with the end=" ", in this case space on python
+                                      version 3.0 and above. 
+
+hero_inv.py                -->     1) Needed to change input to raw_input
+
+hero_inv2.py               -->     1) Needed to change input to raw_input
+
+                                   2) The following did not work:     
+                                      print("Here", end=" ") 
+                            
+                                      -print has as default new line to be pring one can define the 
+                                      end character with the end=" ", in this case space on python
+                                      version 3.0 and above. 
+
+word_jumble.py             -->     1) Needed to change input to raw_input
 
 
 
 
 
+
+ 
 
 
 
